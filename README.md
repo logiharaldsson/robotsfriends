@@ -1,3 +1,6 @@
+# Testing out how Hooks work. 
+Initializing a new app with simple React components. Then change the class components to functional with hooks. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
